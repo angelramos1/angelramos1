@@ -14,6 +14,9 @@
 - <b>HTML/CSS/Javascript</b>
   - <p>COMING SOON!</p>
 
+- <b>Java</b>
+  - <p>COMING SOON!</p>
+  
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
