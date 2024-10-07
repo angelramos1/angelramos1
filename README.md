@@ -2,14 +2,14 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Python</b>
-  - [Gasoline Cost Calculator](https://github.com/angelramos1/Gasoline-Cost-Calculator)
-
 - <b>C++</b>
   - [Supercell Invaders](https://github.com/angelramos1/Supercell-Invaders)
  
 - <b>C++</b>
   - [Fractals](https://github.com/angelramos1/Fractals)
+
+- <b>Python</b>
+  - [Gasoline Cost Calculator](https://github.com/angelramos1/Gasoline-Cost-Calculator)
 
 - <b>HTML/CSS/Javascript</b>
   - <p>COMING SOON!</p>
